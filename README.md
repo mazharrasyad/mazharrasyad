@@ -38,64 +38,55 @@ I am a passionate **Software Engineer** specializing in full-stack web developme
 ### 📁 Annual Projects Timeline (Matching Portfolio Grid)
 *Click on any year card below to explore completed projects on my live portfolio:*
 
-<table align="center" width="100%">
+<table align="center" width="100%" border="0" cellpadding="5">
   <tr>
-    <td align="center" width="33%" bgcolor="#0f172a">
+    <td align="center" width="33%">
       <a href="https://mazharrasyad.github.io/projects-2026.html">
-        <h3>🚀 2026</h3>
-        <p><font color="#60a5fa"><b>4 Projects</b></font></p>
+        <img src="https://img.shields.io/badge/2026-4%20Projects-3b82f6?style=for-the-badge&logo=spacex&logoColor=white&labelColor=0f172a" alt="2026 Projects" />
       </a>
     </td>
-    <td align="center" width="33%" bgcolor="#0f172a">
+    <td align="center" width="33%">
       <a href="https://mazharrasyad.github.io/projects-2025.html">
-        <h3>⚡ 2025</h3>
-        <p><font color="#60a5fa"><b>30 Projects</b></font></p>
+        <img src="https://img.shields.io/badge/2025-30%20Projects-3b82f6?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0f172a" alt="2025 Projects" />
       </a>
     </td>
-    <td align="center" width="33%" bgcolor="#0f172a">
+    <td align="center" width="33%">
       <a href="https://mazharrasyad.github.io/projects-2024.html">
-        <h3>✨ 2024</h3>
-        <p><font color="#60a5fa"><b>26 Projects</b></font></p>
+        <img src="https://img.shields.io/badge/2024-26%20Projects-3b82f6?style=for-the-badge&logo=react&logoColor=white&labelColor=0f172a" alt="2024 Projects" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%" bgcolor="#0f172a">
+    <td align="center" width="33%">
       <a href="https://mazharrasyad.github.io/projects-2023.html">
-        <h3>🔥 2023</h3>
-        <p><font color="#60a5fa"><b>8 Projects</b></font></p>
+        <img src="https://img.shields.io/badge/2023-8%20Projects-3b82f6?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0f172a" alt="2023 Projects" />
       </a>
     </td>
-    <td align="center" width="33%" bgcolor="#0f172a">
+    <td align="center" width="33%">
       <a href="https://mazharrasyad.github.io/projects-2022.html">
-        <h3>💻 2022</h3>
-        <p><font color="#60a5fa"><b>18 Projects</b></font></p>
+        <img src="https://img.shields.io/badge/2022-18%20Projects-3b82f6?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0f172a" alt="2022 Projects" />
       </a>
     </td>
-    <td align="center" width="33%" bgcolor="#0f172a">
+    <td align="center" width="33%">
       <a href="https://mazharrasyad.github.io/projects-2021.html">
-        <h3>🛠️ 2021</h3>
-        <p><font color="#60a5fa"><b>12 Projects</b></font></p>
+        <img src="https://img.shields.io/badge/2021-12%20Projects-3b82f6?style=for-the-badge&logo=docker&logoColor=white&labelColor=0f172a" alt="2021 Projects" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%" bgcolor="#0f172a">
+    <td align="center" width="33%">
       <a href="https://mazharrasyad.github.io/projects-2020.html">
-        <h3>🎨 2020</h3>
-        <p><font color="#60a5fa"><b>8 Projects</b></font></p>
+        <img src="https://img.shields.io/badge/2020-8%20Projects-3b82f6?style=for-the-badge&logo=figma&logoColor=white&labelColor=0f172a" alt="2020 Projects" />
       </a>
     </td>
-    <td align="center" width="33%" bgcolor="#0f172a">
+    <td align="center" width="33%">
       <a href="https://mazharrasyad.github.io/projects-2019.html">
-        <h3>📊 2019</h3>
-        <p><font color="#60a5fa"><b>19 Projects</b></font></p>
+        <img src="https://img.shields.io/badge/2019-19%20Projects-3b82f6?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0f172a" alt="2019 Projects" />
       </a>
     </td>
-    <td align="center" width="33%" bgcolor="#0f172a">
+    <td align="center" width="33%">
       <a href="https://mazharrasyad.github.io/projects-2018.html">
-        <h3>🎓 2018</h3>
-        <p><font color="#60a5fa"><b>7 Projects</b></font></p>
+        <img src="https://img.shields.io/badge/2018-7%20Projects-3b82f6?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0f172a" alt="2018 Projects" />
       </a>
     </td>
   </tr>
@@ -105,16 +96,23 @@ I am a passionate **Software Engineer** specializing in full-stack web developme
 
 ### 📊 GitHub Statistics (Sleek Dark Theme)
 <div align="center">
+  <!-- GitHub Readme Stats & Top Langs (Using high-uptime stable community mirror) -->
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mazharrasyad&show_icons=true&bg_color=0f172a&title_color=3b82f6&text_color=94a3b8&icon_color=3b82f6&border_color=1e293b&hide_border=false" height="150" />
+        <img src="https://github-readme-stats.shion.dev/api?username=mazharrasyad&show_icons=true&bg_color=0f172a&title_color=3b82f6&text_color=94a3b8&icon_color=3b82f6&border_color=1e293b&hide_border=false" height="160" alt="GitHub Stats" />
       </td>
+      <td width="10">&nbsp;</td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazharrasyad&layout=compact&bg_color=0f172a&title_color=3b82f6&text_color=94a3b8&icon_color=3b82f6&border_color=1e293b&hide_border=false" height="150" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mazharrasyad&layout=compact&bg_color=0f172a&title_color=3b82f6&text_color=94a3b8&icon_color=3b82f6&border_color=1e293b&hide_border=false" height="160" alt="Top Langs" />
       </td>
     </tr>
   </table>
+  
+  <br/>
+  
+  <!-- Contribution Streak Stats (Highly stable & themed) -->
+  <img src="https://streak-stats.demolab.com/?user=mazharrasyad&theme=tokyonight&background=0f172a&ring=3b82f6&fire=3b82f6&currStreakNum=ffffff&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8&currStreakLabel=3b82f6&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
 ---
